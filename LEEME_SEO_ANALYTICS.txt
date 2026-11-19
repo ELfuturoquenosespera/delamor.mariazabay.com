@@ -1,0 +1,13 @@
+DEL AMOR Y OTROS DESASTRES NATURALES — AJUSTES SEO, SOCIAL Y ANALÍTICA
+19 DE NOVIEMBRE DE 2026
+
+1. Copia el CONTENIDO del RAR a la raíz del repositorio. No metas una carpeta intermedia.
+2. CNAME: delamor.mariazabay.com. Si el dominio ya funciona en GitHub Pages, no alteres el DNS.
+3. favicon.svg, favicon-32.png, favicon-48.png y apple-touch-icon.png, todos en assets/.
+4. Imagen de redes sociales: assets/og-image.jpg, 1200 × 630 px, elaborada con la portada original.
+5. SEO: canonicals, Open Graph y Twitter/X, datos estructurados, robots.txt, sitemap.xml y metadatos de libro y autora.
+6. GA4: G-8SFV2TFR2V (igual que las otras webs). Solo se carga una vez que el visitante pulsa «Aceptar».
+7. Las preferencias de cookies se guardan por origen y pueden gestionarse desde el pie de la web.
+8. Se han adaptado las páginas de privacidad, cookies y aviso legal. Los textos legales son orientativos y la titular debe revisarlos antes de su publicación.
+9. Una vez publicado, comprobar que el servidor sirve https://delamor.mariazabay.com/assets/og-image.jpg, que GA4 registra visitas con consentimiento y que Google Search Console puede leer el sitemap. El funcionamiento en producción no se puede confirmar examinando un RAR.
+10. Prueba el enlace con Facebook Sharing Debugger, LinkedIn Post Inspector y WhatsApp (puede haber cachés anteriores).
