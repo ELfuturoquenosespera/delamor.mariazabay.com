@@ -1,0 +1,7 @@
+DEL AMOR Y OTROS DESASTRES NATURALES — María Zabay
+
+Web completa actualizada: fotografía de cabecera en la RAE, carrusel de libros corregido, libros en 3D en cabecera y al final, apertura de cubierta y paso de páginas al pasar el ratón.
+Incluye las seis primeras páginas del PDF y el lector ampliado mediante clic o toque.
+
+Descomprime el ZIP y abre index.html para ver la web. Para publicarla, sube su contenido al directorio público de tu alojamiento conservando las carpetas.
+Los enlaces de tiendas, entrevistas y otras webs requieren conexión a Internet.
